@@ -1,0 +1,6 @@
+pyautogen
+langchain
+openai
+faiss-cpu
+pypdf
+langchain-community
